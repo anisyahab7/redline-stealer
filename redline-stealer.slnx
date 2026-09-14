@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/redline-stealer.Grabber/redline-stealer.Grabber.csproj" />
+    <Project Path="src/redline-stealer.Agent/redline-stealer.Agent.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/redline-stealer.Grabber.Tests/redline-stealer.Grabber.Tests.csproj" />
+  </Folder>
+</Solution>
