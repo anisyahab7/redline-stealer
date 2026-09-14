@@ -1,0 +1,6 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <RootNamespace>RedLine.Grabber</RootNamespace>
+    <AssemblyName>RedLine.Grabber</AssemblyName>
+  </PropertyGroup>
+</Project>
